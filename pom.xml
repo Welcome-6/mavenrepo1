@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.42.161:8080/repository/mynexus/</url>
+            <url>http://192.168.42.165:8080/repository/mynexus/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.42.161:8080/repository/mynexus2/</url>
+            <url>http://192.168.42.165:8080/repository/mynexus2/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
